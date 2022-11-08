@@ -14,5 +14,8 @@ You can learn more in the <a href="create-react-app.dev/docs/getting-started">Cr
 
 To learn React, check the <a href="https://reactjs.org/">React documentation</a>
 
+<h2>License</h2>
+This is an open source project, most of the code was provided by MIT Coding Program
+
 
 
